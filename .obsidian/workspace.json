@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d67230f687b56d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "241d53d900e9b75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "851cb6c1c9e1bf2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 集合類/PriorityQueue(優先隊列).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21eec509f701ff27",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e11931e9203975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2224492e4fb3f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d476594f7f9acfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74206c699c05b04f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7745a324a9c49a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "de27f6238ae01df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85bcf4f3f473dfd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java 集合類/PriorityQueue(優先隊列).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1d5168e1503c4d10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java 集合類/PriorityQueue(優先隊列).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc49e5ccd5a91584",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c22ab426927ea328",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java 集合類/PriorityQueue(優先隊列).md"
+              }
+            }
+          },
+          {
+            "id": "78715d608f86bf46",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "851cb6c1c9e1bf2d",
+  "lastOpenFiles": [
+    "Java 集合類/ArrayList.md",
+    "Java 集合類/PriorityQueue(優先隊列).md",
+    "深入理解JVM/3. JVM 監控工具/3.1 JDK 和 系統工具.md",
+    "Java 集合類/img",
+    "Java 集合類/img/二叉堆.png",
+    "Java 集合類",
+    "深入理解JVM/1. JVM內存管理機制/1.3 垃圾回收.md",
+    "深入理解JVM/1. JVM內存管理機制/1.2 OOM 異常 (OutOfMemroyError).md",
+    "深入理解JVM/1. JVM內存管理機制/1.1 JVM 內存區域.md",
+    "深入理解JVM/3. JVM 監控工具",
+    "深入理解JVM/1. JVM內存管理機制/1.4 Java 內存分配策略.md",
+    "深入理解JVM/2. JVM 程序執行/2.1 Class 文件結構.md",
+    "Untitled.table",
+    "Untitled 0.table",
+    "深入理解JVM/2. JVM 程序執行",
+    "深入理解JVM/img/GC 日誌的解讀.png",
+    "深入理解JVM/img/G1 回收器過程.jpg",
+    "深入理解JVM/img/G1 回收器.png",
+    "深入理解JVM/img/CMS 回收器過程.jpg",
+    "深入理解JVM/img/CMS 收集器.png",
+    "深入理解JVM/img/Serial ParNew 搭配 Serial Old.jpg",
+    "深入理解JVM/img/7 個垃圾收集器.png",
+    "深入理解JVM/img/HotSpot GC 過程.png",
+    "深入理解JVM/img/標記-整理算法.png",
+    "深入理解JVM/img",
+    "深入理解JVM/1. JVM內存管理機制",
+    "深入理解JVM"
+  ]
+}
