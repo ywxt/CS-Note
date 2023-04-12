@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java 集合類/PriorityQueue(優先隊列).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -158,8 +158,12 @@
   },
   "active": "851cb6c1c9e1bf2d",
   "lastOpenFiles": [
-    "Java 集合類/ArrayList.md",
+    "Java 集合類/img/PriorityQueue remove(o).png",
+    "Java 集合類/img/優先隊列remove 和 peek.png",
+    "Java 集合類/img/優先隊列offer.png",
+    "Java 集合類/img/二叉堆 1.png",
     "Java 集合類/PriorityQueue(優先隊列).md",
+    "Java 集合類/ArrayList.md",
     "深入理解JVM/3. JVM 監控工具/3.1 JDK 和 系統工具.md",
     "Java 集合類/img",
     "Java 集合類/img/二叉堆.png",
@@ -179,9 +183,6 @@
     "深入理解JVM/img/CMS 回收器過程.jpg",
     "深入理解JVM/img/CMS 收集器.png",
     "深入理解JVM/img/Serial ParNew 搭配 Serial Old.jpg",
-    "深入理解JVM/img/7 個垃圾收集器.png",
-    "深入理解JVM/img/HotSpot GC 過程.png",
-    "深入理解JVM/img/標記-整理算法.png",
     "深入理解JVM/img",
     "深入理解JVM/1. JVM內存管理機制",
     "深入理解JVM"
