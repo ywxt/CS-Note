@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
-  "textFontFamily": "Cascadia Code,Advocate Ancient Sans HW VF,Advocate Ancient Serif HW VF",
-  "monospaceFontFamily": "Cascadia Code",
+  "accentColor": "#4e91ef",
+  "theme": "system",
+  "textFontFamily": "Cascadia Code,尙古黑体",
+  "monospaceFontFamily": "Cascadia Code,尙古等宽",
   "baseFontSize": 19,
   "cssTheme": "Things"
 }
